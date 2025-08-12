@@ -1,0 +1,6 @@
+(mover camion1 ciudad2 ciudad1)
+(cargar paquete1 camion1 ciudad1)
+(mover camion1 ciudad1 ciudad2)
+(mover camion1 ciudad2 ciudad3)
+(descargar paquete1 camion1 ciudad3)
+; cost = 5 (unit cost)
